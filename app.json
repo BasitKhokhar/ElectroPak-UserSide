@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "ElectroPak App",
+    "slug": "electropak-app",
+    "owner": "basitkhokhar4949",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png"
+      },
+      "package": "com.basitkhokhar4949.BasitSanitaryApp"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "stripePublishableKey": "pk_test_51QDQ8SFwMkFMTBSOlvaQpkvAtkXcpvW94d77oG94OK83dzf23WzbkvrVU29y0HaJLP4TbWhtdnqQTxCbit7N9AuN009e4UsCVL",
+      "API_BASE_URL": "https://basit-sanitary-app.onrender.com",
+      "eas": {
+        "projectId": "00419d90-2f51-4972-b963-c5d1daad4b19"
+      }
+      
+    }
+  }
+}
