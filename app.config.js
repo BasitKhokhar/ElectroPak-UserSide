@@ -39,7 +39,7 @@ export default () => ({
       FIREBASE_APP_ID: process.env.FIREBASE_APP_ID,
       FIREBASE_MEASUREMENT_ID: process.env.FIREBASE_MEASURMENT_ID,
       eas: {
-        projectId: "00419d90-2f51-4972-b963-c5d1daad4b19" 
+        // projectId: "00419d90-2f51-4972-b963-c5d1daad4b19" 
 
       },
 
